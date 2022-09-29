@@ -5,12 +5,11 @@
 <br />
 <br />
 
-Oi! Eu sou a Djaniza, em transição de carreira e já apaixonada pela área de tecnologia, no momento terminando minha formação na Trybe 🚀. 
+Oi! Eu sou a Djaniza, desenvolvedora Frontend, no momento terminando minha formação na Trybe 🚀. 
 <br />
 
 **Mais sobre mim:**
 
-- 👨🏽‍💻 Estou iniciando meus estudos em Banco de dados SQL;
 - 📫 Para entrar em contato envie um e-mail para: **djanizav@gmail.com**
 - 📝 Em constante evolução, tentando ser uma desenvolvedora melhor a cada dia.
 - 🤔 Nas horas vagas eu faço encadernação artesanal... Hobby estranho, eu sei.
