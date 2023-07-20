@@ -5,7 +5,7 @@
 <br />
 <br />
 
-Oi! Eu sou a Djaniza, desenvolvedora Frontend, no momento terminando minha formação na Trybe 🚀. 
+Oi! Eu sou a Djaniza, desenvolvedora Frontend, com experiência em Reactjs e Angular, atualmente cursando Analise e Desenvolvimento de Sistemas🚀. 
 <br />
 
 **Mais sobre mim:**
@@ -28,13 +28,6 @@ Oi! Eu sou a Djaniza, desenvolvedora Frontend, no momento terminando minha forma
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   </p>
   <br />
-  
-  **O que vou aprender nos próximos 4 meses:**
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</p>
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Djaniza&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Djaniza" />
